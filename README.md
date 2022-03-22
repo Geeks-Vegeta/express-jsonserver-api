@@ -4,24 +4,27 @@ This repository will help you to create a basic express restful service with jso
 
 <br/>
 First clone repository
+
 ```bash
 $ git clone https://github.com/Geeks-Vegeta/express-jsonserver-api.git
 ```
 
 <br/>
 Install packages
+
 ```bash
 $ npm install
 ```
 
 <br/>
 Run the following script.
+
 ```bash
 $ npm run dev
 ```
 
 <br/>
-######Expressjs API Docs.
+###### Expressjs API Docs.
 <details>
 <summary>All Users</summary>
 
@@ -77,7 +80,7 @@ DELETE
 </details>
 
 <br/>
-######Test Following API
+###### Test Following API
 To test following apis just run the following commands.
 
 First run json server

@@ -24,7 +24,8 @@ $ npm run dev
 ```
 
 <br/>
-######Expressjs API Docs.
+
+###### Expressjs API Docs.
 <details>
 <summary>All Users</summary>
 
@@ -80,7 +81,8 @@ DELETE
 </details>
 
 <br/>
-######Test Following API
+
+###### Test Following API
 To test following apis just run the following commands.
 
 First run json server

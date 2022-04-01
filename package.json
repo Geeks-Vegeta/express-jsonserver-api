@@ -10,9 +10,9 @@
     ]
   },
   "scripts": {
-    "start": "nodemon app.js",
     "jsonserver": "json-server --watch data/user.json",
     "dev": "concurrently \"nodemon server.js \" \"npm run jsonserver\"",
+    "start": "npm run dev",
     "test": "cross-env NODE_ENV=test jest --detectOpenHandles --testTimeout=10000 --forceExit"
   },
   "keywords": [],
